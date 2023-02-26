@@ -1,7 +1,7 @@
 ---
-title: Our Coffee
-image: img/about-reinvest-profits.jpg
-heading: What we offer
+title: Our Coffee22
+image: img/about-direct-sourcing.jpg
+heading: What we offer22
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
